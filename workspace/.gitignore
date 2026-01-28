@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.key
+*.pem
+
+# Memory (personal data)
+memory/
+
+# Project folders (optional - uncomment if you want to track)
+# besaworld/
+# besaworld-react/
+# crabwalk/
+
+# Temp files
+*.tmp
+.DS_Store
